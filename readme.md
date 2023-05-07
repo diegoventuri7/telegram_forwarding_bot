@@ -1,4 +1,3 @@
-```
 # Telegram Message Forwarding Bot
 
 This project is a Telegram bot that automatically forwards messages from a source channel to a destination channel, with optional text substitutions.
@@ -70,4 +69,3 @@ python3 telegram_bot.py
 The bot will now automatically forward messages from the source channel to the destination channel, applying any text substitutions specified in the `dictonary.txt` file.
 
 If you need to stop the bot, press `Ctrl+C` in the terminal.
-```
